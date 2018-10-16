@@ -1,0 +1,482 @@
+[
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539677368179,
+            "changeTime": 1539677368179,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539677368179,
+            "changeTime": 1539677368179,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539677547869,
+            "changeTime": 1539677547869,
+            "contentHash": "29447785d6fffb1bcf789425fe3f0a54e897afdc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539677368179,
+            "changeTime": 1539677368179,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539677547791,
+            "changeTime": 1539677547791,
+            "contentHash": "b071af41fbaa3f8f6f9a75f48f768bb3b9474666",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\classes\\AccountProcessor.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\classes\\AccountProcessor.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 411,
+            "modifiedTime": 1539677547791,
+            "changeTime": 1539677547791,
+            "contentHash": "747313f0303772c9a6ba64f203f0d0b346971b2c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\classes\\AccountProcessor.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\classes\\AccountProcessor.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1539677547775,
+            "changeTime": 1539677547775,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\classes\\AccountProcessorTest.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\classes\\AccountProcessorTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 649,
+            "modifiedTime": 1539677547791,
+            "changeTime": 1539677547791,
+            "contentHash": "6a2aaba8d312aed4fb7e2965df9dac5a2c1db555",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\classes\\AccountProcessorTest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\classes\\AccountProcessorTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1539677547791,
+            "changeTime": 1539677547791,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539677547838,
+            "changeTime": 1539677547838,
+            "contentHash": "7b8df875e4a29973c2c6cb0bdda2358657dcb546",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\layouts\\Expense__c-Expense Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\layouts\\Expense__c-Expense Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3200,
+            "modifiedTime": 1539677547806,
+            "changeTime": 1539677547806,
+            "contentHash": "ba6b7551d176826ebf648824c940d72075cbac8d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\layouts\\Selector__c-Selector Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\layouts\\Selector__c-Selector Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3341,
+            "modifiedTime": 1539677547838,
+            "changeTime": 1539677547838,
+            "contentHash": "2236d4c30eec371543ed43b9b87afaecad7091e0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539677548009,
+            "changeTime": 1539677548009,
+            "contentHash": "89e266a736a88a6e0226bdc9838af8e1440089ac",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539677547884,
+            "changeTime": 1539677547884,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539677547884,
+            "changeTime": 1539677547884,
+            "contentHash": "0124e328b479940f26a28cea3ad6d186946e546e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Account\\fields\\Number_of_Contacts__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Account\\fields\\Number_of_Contacts__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 416,
+            "modifiedTime": 1539677547884,
+            "changeTime": 1539677547884,
+            "contentHash": "8a22e669c72e2e9de1884d7bb9858944621dd2da",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Expense__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Expense__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539677547916,
+            "changeTime": 1539677547916,
+            "contentHash": "7e18244116415a1ea894bab3e1555215869b08f5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Expense__c\\Expense__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Expense__c\\Expense__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2209,
+            "modifiedTime": 1539677547916,
+            "changeTime": 1539677547916,
+            "contentHash": "d63b279e2a7400003a591035ebe3c317e938fb03",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Expense__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Expense__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539677547963,
+            "changeTime": 1539677547963,
+            "contentHash": "36e0f8ce8d3855ac18e6a491d7d01518f3bb1ae3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Expense__c\\fields\\Amount__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Expense__c\\fields\\Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 425,
+            "modifiedTime": 1539677547916,
+            "changeTime": 1539677547916,
+            "contentHash": "dd93c5e6e73c6555fb4d6fd67b77280867a33fd9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Expense__c\\fields\\Client__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Expense__c\\fields\\Client__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 396,
+            "modifiedTime": 1539677547947,
+            "changeTime": 1539677547947,
+            "contentHash": "1229c420a9517fe7ed54ce28e4cc9d167f80bfd0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Expense__c\\fields\\Date__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Expense__c\\fields\\Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 341,
+            "modifiedTime": 1539677547963,
+            "changeTime": 1539677547963,
+            "contentHash": "f7031e6ed63fe8b7780fa5ab8ebc7bc42489b259",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Expense__c\\fields\\Reimbursed__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Expense__c\\fields\\Reimbursed__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 365,
+            "modifiedTime": 1539677547963,
+            "changeTime": 1539677547963,
+            "contentHash": "0d6cd60c1b476fdca2170ac6653b68991716310e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Selector__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Selector__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539677548025,
+            "changeTime": 1539677548025,
+            "contentHash": "2658b61f8ea00eb1831a9e865318b8257fbc820e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Selector__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Selector__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539677548025,
+            "changeTime": 1539677548025,
+            "contentHash": "7d796b717a49bcb44265971dc82ab03996f6e261",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Selector__c\\fields\\Email__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Selector__c\\fields\\Email__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 371,
+            "modifiedTime": 1539677548009,
+            "changeTime": 1539677548009,
+            "contentHash": "ed864bee6b7faf2d8c7b6d6f1f5cae6e9ce98f35",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Selector__c\\fields\\Location__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Selector__c\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 401,
+            "modifiedTime": 1539677548009,
+            "changeTime": 1539677548009,
+            "contentHash": "219b12a8e7f130b62c1141e7532548ea9fa4e1a2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Selector__c\\fields\\mobile__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Selector__c\\fields\\mobile__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 346,
+            "modifiedTime": 1539677548025,
+            "changeTime": 1539677548025,
+            "contentHash": "c1e65dc57f870ef7710e18865eef484ecf8dc056",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Selector__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Selector__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539677548025,
+            "changeTime": 1539677548025,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Selector__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Selector__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1539677548025,
+            "changeTime": 1539677548025,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Selector__c\\Selector__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject\\force-app\\main\\default\\objects\\Selector__c\\Selector__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2176,
+            "modifiedTime": 1539677548009,
+            "changeTime": 1539677548009,
+            "contentHash": "8b6d6fbe0554038525802dd6cb120ebb3f2c62a8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\GRproject",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\AL2043\\GRproject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539677420969,
+            "changeTime": 1539677420969,
+            "contentHash": "92ca9faf268bdc3bc4fdfed474395961a41825c6",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
